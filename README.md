@@ -2,8 +2,6 @@
 
 
 <h2 align="center">💻  My Github</h2>
-
----
 <div align="center">
 
 [![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun615&include_all_commits=true&theme=synthwave&hide_border=true&count_private=true)](https://github.com/jieun615/github-readme-stats)
