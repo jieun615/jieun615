@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jieun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun615&include_all_commits=true&theme=gruvbox&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun615&include_all_commits=true&theme=merko&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <!--
 **jieun615/jieun615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
