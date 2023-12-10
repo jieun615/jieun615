@@ -9,7 +9,10 @@
 </div>
 
 <h2 align="center">My</h2>
+<div align="center">
+  
 [![Tistory's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BERJ)](https://back-rj36l5.tistory.com/)
+</div>
 <!--
 **jieun615/jieun615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
