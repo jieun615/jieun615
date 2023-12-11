@@ -4,7 +4,7 @@
 <h2 align="center">💻  My Github</h2>
 <div align="center">
 
-[![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun615&include_all_commits=true&theme=synthwave&hide_border=true&count_private=true)]
+![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun615&include_all_commits=true&theme=synthwave&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun615&layout=compact)](https://github.com/jieun615/github-readme-stats)
 </div>
 
